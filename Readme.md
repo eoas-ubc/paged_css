@@ -1,6 +1,6 @@
 # Four versions of the same jupyter notebook
 
-This folder contains four versions of a noteboo:
+This folder contains four versions of a notebook:
 
 1. [quiz4_2019t1.ipynb](quiz4_2019t1.ipynb) -- json version
 
@@ -14,7 +14,7 @@ This folder contains four versions of a noteboo:
 
 4. [quiz4_2019t1.pdf](quiz4_2019t1.pdf) pdf version made with a latex template
 
-        jupyter nbconvert --to html quiz4_2019t1.ipynb
+        jupyter nbconvert --to pdf quiz4_2019t1.ipynb
 
 
 # The project
