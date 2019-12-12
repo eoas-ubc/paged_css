@@ -2,15 +2,17 @@
 
 This folder contains four versions of a noteboo:
 
-1. [quiz4_2019t1.ipynb](json version)
+1. [quiz4_2019t1.ipynb](quiz4_2019t1.ipynb) -- json version
 
-2. [quiz4_2019t1.py](python version) (made using https://jupytext.readthedocs.io/en/latest/index.html)
+2. [quiz4_2019t1.py](quiz4_2019t1.py) -- python version) (made using
 
-3. html version made with
+     https://jupytext.readthedocs.io/en/latest/index.html
+
+3. [quiz4_2019t1.html](quiz4_2019t1.html) html version made with
 
         jupyter nbconvert --to html quiz4_2019t1.ipynb
 
-4. pdf version made with a latex template
+4. [quiz4_2019t1.pdf](quiz4_2019t1.pdf) pdf version made with a latex template
 
         jupyter nbconvert --to html quiz4_2019t1.ipynb
 
